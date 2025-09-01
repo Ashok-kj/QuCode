@@ -1,0 +1,13 @@
+Vectors are essential in linear algebra, defined through three perspectives: 
+physics (arrows in space), computer science (ordered lists of numbers), and 
+mathematics (abstract operations). Key operations include vector addition 
+and scalar multiplication, which allow for translating between geometric 
+and numerical representations. Understanding these concepts aids in data 
+analysis and spatial manipulation.
+
+Eigenvectors and eigenvalues are essential concepts in linear algebra, 
+representing special vectors that remain on their span during transformations. 
+They are linked to how matrices act on vectors, with eigenvalues indicating 
+the scaling effect. Understanding these concepts enhances comprehension of
+linear transformations and facilitates easier computations, especially in 
+higher dimensions.
