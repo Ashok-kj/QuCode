@@ -1,0 +1,24 @@
+Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra
+- https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2
+
+Understanding vector coordinates is essential in linear algebra, as it allows for a clear 
+representation of vectors through scalar multiplication of basis vectors. This concept of 
+scaling and adding vectors is foundational for exploring coordinate systems.
+
+Understanding linear combinations of vectors is crucial in linear algebra, as it highlights 
+the relationship between vector addition and scalar multiplication in defining vector spaces. 
+The span of two vectors determines all reachable vectors in two-dimensional space based on 
+these operations.
+
+Span defines the set of all possible linear combinations of vectors. This understanding extends 
+from two-dimensional to three-dimensional spaces, illustrating how vectors interact.
+--------------------------------------------------------------------------------------------------
+Bayes' Theorem of Probability With Tree Diagrams & Venn Diagrams 
+- https://www.youtube.com/watch?v=OByl4RJxnKA 
+
+P(A/B) = P(B/A) P(A) / P(B) = P(A and B) / P(B)
+P(B/A) = P(A/B) P(B) / P(A) = P(B and A) / P(A) 
+
+---------------------------------------------------------------------------------------------------
+
+
