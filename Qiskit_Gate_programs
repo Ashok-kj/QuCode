@@ -1,0 +1,58 @@
+X / Not Gate:
+-------------------
+OPENQASM 2.0;
+include "qelib1.inc";
+
+qreg q[1];
+creg c[1];
+x q[0];
+measure q[0] -> c[0];
+
+Hadamard Gate :
+---------------------
+OPENQASM 2.0;
+include "qelib1.inc";
+
+qreg q[1];
+creg c[1];
+h q[0];
+measure q[0] -> c[0];
+
+Z Gate :
+---------------------
+OPENQASM 2.0;
+include "qelib1.inc";
+
+qreg q[1];
+creg c[1];
+z q[0];
+measure q[0] -> c[0];
+
+Control Not Gate:
+----------------------
+OPENQASM 2.0;
+include "qelib1.inc";
+
+qreg q[2];
+creg c[1];
+reset q[0];
+h q[0];
+cx q[0], q[1];
+measure q[1] -> c[0];
+measure q[0] -> c[0];
+
+Toffoli/Control Control Not gate:
+---------------------------------
+OPENQASM 2.0;
+include "qelib1.inc";
+
+qreg q[3];
+creg c[1];
+reset q[0];
+reset q[1];
+reset q[2];
+x q[0];
+x q[1];
+ccx q[0], q[1], q[2];
+measure q[1] -> c[0];
+measure q[0] -> c[0];
