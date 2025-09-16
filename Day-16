@@ -1,0 +1,17 @@
+ Day - 16 
+ 
+ The next big leap in cryptography: NIST’s post-quantum cryptography standards
+  - https://www.youtube.com/watch?v=YJ00O4gBs0I
+  Crystals-Kyber (ML-KEM), Crystals-Dilithium (ML-DSA), Falcon, SPHINCS 
+
+ China broke HTTPS/RSA encryption with quantum computers - Explained  
+  - https://www.youtube.com/watch?v=gSy0PCS4m6E
+ Ref : 
+	https://blog.cloudflare.com/post-quantum-to-origins/
+	https://www.youtube.com/watch?v=-UrdExQW0cs&list=PLlIVpIg2i3MnDZNbuuD9A8jApnF9mWjLH
+	
+ Shor's Algorithm — Programming on Quantum Computers — Coding with Qiskit S2E7
+  - https://www.youtube.com/watch?v=EdJ7RoWcU48
+ 
+ How Quantum Computers Break Encryption | Shor's Algorithm Explained
+  - https://www.youtube.com/watch?v=lvTqbM5Dq4Q
